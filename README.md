@@ -2,9 +2,10 @@
 
 A fun and interactive Rock Paper Scissors game built using HTML, CSS, and JavaScript. Challenge the computer and see who wins!
 
-## 🖼️ Demo
+## 🌐 Live Preview
 
-![Screenshot](./screenshot.png) <!-- Replace with your actual screenshot path -->
+Check the game online here:
+👉 [Let's play](https://mohdsohel-07.github.io/Rock-Paper-Scissors/)
 
 ## ✨ Features
 
@@ -46,24 +47,6 @@ rock-paper-scissors/
 
 3. Open `index.html` in your web browser.
 
----
-
-## 🌐 Live Preview
-
-Check the game online here:
-👉 [Let's play](https://mohdsohel-07.github.io/rps/)
-
-
-
----
-
-## 📸 Screenshots
-
-To show off your app visually:
-
-1. Take a screenshot of the game.
-2. Save it as `screenshot.png` in your root directory.
-3. It will auto-display above.
 
 ---
 
