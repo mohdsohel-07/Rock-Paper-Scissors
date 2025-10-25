@@ -2,7 +2,7 @@
 
 A fun and interactive Rock Paper Scissors game built using HTML, CSS, and JavaScript. Challenge the computer and see who wins!
 
-## 🌐 Live Preview
+## 🌐 Live Preview 
 
 Check the game online here:
 👉 [Let's play](https://mohdsohel-07.github.io/Rock-Paper-Scissors/)
