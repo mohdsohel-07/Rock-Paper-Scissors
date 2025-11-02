@@ -12,7 +12,7 @@ const genCompChoice = () => {
 const drawGame = (compChoice) => {
     msg.innerText = `It's a draw! Computer also chose ${compChoice}.`;
     msg.style.backgroundColor = "yellow";
-}
+} 
 
 const userWin = (compChoice) => {
     msg.innerText = `You won! Computer chose ${compChoice}.`;
