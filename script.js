@@ -2,7 +2,7 @@ let userScore = 0;
 let compScore = 0;
 let msg = document.querySelector("#msg");
 const choices = document.querySelectorAll(".choice");
-
+ 
 const genCompChoice = () => {
     const options = ["rock", "paper", "scissors"];
     let randIdx = Math.floor(Math.random() * 3);
